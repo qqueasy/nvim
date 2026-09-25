@@ -13,8 +13,8 @@ this is my person neovim config, originally inspired by [BreadOnPenguins](https:
 * S-j buffer left
 * S-k buffer right
 
-* <spsace>ff file search
-* <space>fg grep
+* \<space\>ff file search
+* \<space\>fg grep
 
 ### workflow
 
